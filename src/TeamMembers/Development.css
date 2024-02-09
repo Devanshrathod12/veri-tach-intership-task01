@@ -1,0 +1,45 @@
+.Development-container {
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+    height: 720px;
+    overflow: hidden;
+    padding: 20px;
+  }
+  
+  .team-heading {
+    background-color: #B0C4DE;
+    
+  }
+  
+  .team-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .card {
+    width: 200px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .manager-image {
+    width: 100%;
+    border-radius: 50%;
+  }
+  
+  .manager-name {
+    margin-top: 5px;
+    font-size: 1.2rem;
+  }
+  
+  .manager-role {
+    margin-top: 5px;
+    font-size: 1rem;
+  }
+  
